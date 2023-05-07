@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "508Nmd2u3diVE0r0LAVKYqKJjuu9xLqjhxX88tRZ2T/9R/qBA1AGGlr/JmjXtJL7OxdYVJ0Nk28/7p1NFZ6dsQ==",
+  "dgSpecHash": "2Gt44axCVsb74ekoa8cnaYUK9H70dVBmfJMdIrh7mocoRe2OKeFFJcFZofbYP64Ax2cyhMqtCxMQ4+tET2M/Wg==",
   "success": true,
-  "projectFilePath": "C:\\UAb\\LabDeSoft\\XMLtoISO\\XMLtoISO.csproj",
+  "projectFilePath": "C:\\Users\\Utilizador\\Source\\Repos\\XMLtoISO\\XMLtoISO.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jfeli\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\Utilizador\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
