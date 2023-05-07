@@ -1,0 +1,17 @@
+C:\UAb\LabDeSoft\XMLtoISO\obj\Debug\net6.0\XMLtoISO.csproj.AssemblyReference.cache
+C:\UAb\LabDeSoft\XMLtoISO\obj\Debug\net6.0\XMLtoISO.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAb\LabDeSoft\XMLtoISO\obj\Debug\net6.0\XMLtoISO.AssemblyInfoInputs.cache
+C:\UAb\LabDeSoft\XMLtoISO\obj\Debug\net6.0\XMLtoISO.AssemblyInfo.cs
+C:\UAb\LabDeSoft\XMLtoISO\obj\Debug\net6.0\XMLtoISO.csproj.CoreCompileInputs.cache
+C:\UAb\LabDeSoft\XMLtoISO\bin\Debug\net6.0\XMLtoISO.exe
+C:\UAb\LabDeSoft\XMLtoISO\bin\Debug\net6.0\XMLtoISO.deps.json
+C:\UAb\LabDeSoft\XMLtoISO\bin\Debug\net6.0\XMLtoISO.runtimeconfig.json
+C:\UAb\LabDeSoft\XMLtoISO\bin\Debug\net6.0\XMLtoISO.dll
+C:\UAb\LabDeSoft\XMLtoISO\bin\Debug\net6.0\XMLtoISO.pdb
+C:\UAb\LabDeSoft\XMLtoISO\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\UAb\LabDeSoft\XMLtoISO\obj\Debug\net6.0\XMLtoISO.csproj.CopyComplete
+C:\UAb\LabDeSoft\XMLtoISO\obj\Debug\net6.0\XMLtoISO.dll
+C:\UAb\LabDeSoft\XMLtoISO\obj\Debug\net6.0\refint\XMLtoISO.dll
+C:\UAb\LabDeSoft\XMLtoISO\obj\Debug\net6.0\XMLtoISO.pdb
+C:\UAb\LabDeSoft\XMLtoISO\obj\Debug\net6.0\XMLtoISO.genruntimeconfig.cache
+C:\UAb\LabDeSoft\XMLtoISO\obj\Debug\net6.0\ref\XMLtoISO.dll

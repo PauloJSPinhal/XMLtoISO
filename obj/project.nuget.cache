@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "508Nmd2u3diVE0r0LAVKYqKJjuu9xLqjhxX88tRZ2T/9R/qBA1AGGlr/JmjXtJL7OxdYVJ0Nk28/7p1NFZ6dsQ==",
+  "success": true,
+  "projectFilePath": "C:\\UAb\\LabDeSoft\\XMLtoISO\\XMLtoISO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jfeli\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
